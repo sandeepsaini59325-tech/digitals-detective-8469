@@ -69,4 +69,4 @@ Sab results mere manual calculations se match kiye.
 Computer only understands numbers (0 and 1). Encoding standards like ASCII and UTF-8 convert letters and symbols into numbers so the computer can store and process text.
 
 **Example of a character not in basic ASCII:**  
-₹ (Indian Rupee symbol) or é
+₹ (Indian Rupee symbol) or e
