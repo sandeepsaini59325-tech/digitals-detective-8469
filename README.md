@@ -1,4 +1,4 @@
-# Mission 08 — Final Report and Submission
+
 
 ## 1. Task / objective
 Review the complete repository, make sure everything is in place, update the root README, check all mission commits, and prepare the repository for final submission.
